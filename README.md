@@ -88,4 +88,4 @@ The service layer was smoke-tested in this workspace for:
 - practice submission
 - automatic mentor test creation
 
-The Codex bundled runtime here can compile the Tkinter code, but its embedded Tk/Tcl environment still could not open the actual desktop window in-thread. The application is intended to be launched with a normal local Python installation that has Tkinter working.
+
